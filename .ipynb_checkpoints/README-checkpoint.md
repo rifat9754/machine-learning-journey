@@ -1,0 +1,39 @@
+# Machine Learning Journey
+
+This repository documents my journey of learning Machine Learning and Artificial Intelligence through hands-on implementations and projects.
+
+## Technologies
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+## Repository Structure
+
+```text
+machine-learning-journey/
+│
+├── Regression/
+│   └── Simple-Linear-Regression/
+│
+├── Classification/
+├── Clustering/
+├── Dimensionality-Reduction/
+├── Model-Evaluation/
+└── End-to-End-Projects/
+```
+
+## Projects
+
+### Regression
+
+- [Simple Linear Regression – Student Marks Prediction](Regression/Simple-Linear-Regression/README.md)
+
+More algorithms and projects will be added as I continue learning.
+
+## Goal
+
+To build a strong foundation in Machine Learning and become an AI/ML Engineer.
