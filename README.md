@@ -17,7 +17,8 @@ This repository documents my journey of learning Machine Learning and Artificial
 machine-learning-journey/
 │
 ├── Regression/
-│   └── Simple-Linear-Regression/
+│   ├── Simple-Linear-Regression/
+│   └── Multiple-Linear-Regression/
 │
 ├── Classification/
 ├── Clustering/
@@ -31,6 +32,7 @@ machine-learning-journey/
 ### Regression
 
 - [Simple Linear Regression – Student Marks Prediction](Regression/Simple-Linear-Regression/README.md)
+- [Multiple Linear Regression – House Price Prediction](Regression/Multiple-Linear-Regression/README.md)
 
 More algorithms and projects will be added as I continue learning.
 
