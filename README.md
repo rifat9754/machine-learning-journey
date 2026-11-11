@@ -21,6 +21,7 @@ machine-learning-journey/
 │   ├── Multiple-Linear-Regression/
 │   |── Polynomial-Regression/
 │   |-- Ridge & Lasso Regression/
+|
 ├── Classification/
 ├── Clustering/
 ├── Dimensionality-Reduction/
@@ -35,7 +36,7 @@ machine-learning-journey/
 - [Simple Linear Regression – Student Marks Prediction](Regression/Simple-Linear-Regression/README.md)
 - [Multiple Linear Regression – House Price Prediction](Regression/Multiple-Linear-Regression/README.md)
 - [Polynomial Regression – Salary Prediction](Regression/Polynomial-Regression/readme.md)
-- [Linear, Ridge & Lasso Regression](Regression/Linear-Ridge-Lasso-Regression/README.md)
+- [Linear, Ridge & Lasso Regression](Regression/Lasso_and_Ridge_Regression/README.md)
 
 More algorithms and projects will be added as I continue learning.
 
