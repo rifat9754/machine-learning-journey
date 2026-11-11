@@ -34,7 +34,7 @@ machine-learning-journey/
 
 - [Simple Linear Regression – Student Marks Prediction](Regression/Simple-Linear-Regression/README.md)
 - [Multiple Linear Regression – House Price Prediction](Regression/Multiple-Linear-Regression/README.md)
-- [Polynomial Regression – Salary Prediction](Regression/Polynomial-Regression/README.md)
+- [Polynomial Regression – Salary Prediction](Regression/Polynomial-Regression/readme.md)
 
 More algorithms and projects will be added as I continue learning.
 
