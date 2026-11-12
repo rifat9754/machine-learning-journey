@@ -19,10 +19,12 @@ machine-learning-journey/
 ├── Regression/
 │   ├── Simple-Linear-Regression/
 │   ├── Multiple-Linear-Regression/
-│   |── Polynomial-Regression/
-│   |-- Ridge & Lasso Regression/
-|
+│   ├── Polynomial-Regression/
+│   └── Ridge-Lasso-Regression/
+│
 ├── Classification/
+│   └── Logistic-Regression/
+│
 ├── Clustering/
 ├── Dimensionality-Reduction/
 ├── Model-Evaluation/
@@ -37,6 +39,10 @@ machine-learning-journey/
 - [Multiple Linear Regression – House Price Prediction](Regression/Multiple-Linear-Regression/README.md)
 - [Polynomial Regression – Salary Prediction](Regression/Polynomial-Regression/readme.md)
 - [Linear, Ridge & Lasso Regression](Regression/Lasso_and_Ridge_Regression/README.md)
+
+### Classification
+
+- [Logistic Regression – Breast Cancer Classification](Classification/Logistic_Regression/README.md)
 
 More algorithms and projects will be added as I continue learning.
 
