@@ -44,7 +44,7 @@ machine-learning-journey/
 ### Classification
 
 - [Logistic Regression – Breast Cancer Classification](Classification/Logistic_Regression/README.md)
-- [Naive Bayes – Iris Flower Classification](Classification/Naive-Bayes/README.md)
+- [Naive Bayes – Iris Flower Classification](Classification/Naive_Bayes/README.md)
 
 More algorithms and projects will be added as I continue learning.
 
