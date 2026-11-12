@@ -20,7 +20,8 @@ machine-learning-journey/
 │   ├── Simple-Linear-Regression/
 │   ├── Multiple-Linear-Regression/
 │   ├── Polynomial-Regression/
-│   └── Ridge-Lasso-Regression/
+│   ├── Ridge-Lasso-Regression/
+│   └── KNN-Regression/
 │
 ├── Classification/
 │   ├── Logistic-Regression/
@@ -41,6 +42,7 @@ machine-learning-journey/
 - [Multiple Linear Regression – House Price Prediction](Regression/Multiple-Linear-Regression/README.md)
 - [Polynomial Regression – Salary Prediction](Regression/Polynomial-Regression/readme.md)
 - [Linear, Ridge & Lasso Regression](Regression/Lasso_and_Ridge_Regression/README.md)
+- [KNN Regression – California Housing Price Prediction](Regression/KNN-Regression/README.md)
 
 ### Classification
 
