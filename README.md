@@ -23,7 +23,8 @@ machine-learning-journey/
 │   └── Ridge-Lasso-Regression/
 │
 ├── Classification/
-│   └── Logistic-Regression/
+│   ├── Logistic-Regression/
+│   └── Naive-Bayes/
 │
 ├── Clustering/
 ├── Dimensionality-Reduction/
@@ -43,6 +44,7 @@ machine-learning-journey/
 ### Classification
 
 - [Logistic Regression – Breast Cancer Classification](Classification/Logistic_Regression/README.md)
+- [Naive Bayes – Iris Flower Classification](Classification/Naive-Bayes/README.md)
 
 More algorithms and projects will be added as I continue learning.
 

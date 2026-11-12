@@ -17,9 +17,15 @@ This repository documents my journey of learning Machine Learning and Artificial
 machine-learning-journey/
 │
 ├── Regression/
-│   └── Simple-Linear-Regression/
+│   ├── Simple-Linear-Regression/
+│   ├── Multiple-Linear-Regression/
+│   ├── Polynomial-Regression/
+│   └── Ridge-Lasso-Regression/
 │
 ├── Classification/
+│   ├── Logistic-Regression/
+│   └── Naive-Bayes/
+│
 ├── Clustering/
 ├── Dimensionality-Reduction/
 ├── Model-Evaluation/
@@ -31,6 +37,14 @@ machine-learning-journey/
 ### Regression
 
 - [Simple Linear Regression – Student Marks Prediction](Regression/Simple-Linear-Regression/README.md)
+- [Multiple Linear Regression – House Price Prediction](Regression/Multiple-Linear-Regression/README.md)
+- [Polynomial Regression – Salary Prediction](Regression/Polynomial-Regression/readme.md)
+- [Linear, Ridge & Lasso Regression](Regression/Lasso_and_Ridge_Regression/README.md)
+
+### Classification
+
+- [Logistic Regression – Breast Cancer Classification](Classification/Logistic_Regression/README.md)
+- [Naive Bayes – Iris Flower Classification](Classification/Naive-Bayes/README.md)
 
 More algorithms and projects will be added as I continue learning.
 
