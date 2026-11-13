@@ -52,6 +52,10 @@ machine-learning-journey/
 - [KNN – Iris Flower Classification](Classification/KNN/README.md)
 - [Decision Tree – Iris Flower Classification](Classification/Decision_Tree_Classification/README.md)
 
+### Ensemble Technique 
+
+- [Random Forest – Breast Cancer Classification](Classification/Random_Forest/README.md)
+
 More algorithms and projects will be added as I continue learning.
 
 ## Goal
