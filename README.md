@@ -30,7 +30,8 @@ machine-learning-journey/
 │   └── Decision-Tree/
 │
 ├── Ensemble-Techniques/
-│   └── Random-Forest/
+│   ├── Random-Forest/
+│   └── AdaBoost/
 │
 ├── Clustering/
 ├── Dimensionality-Reduction/
@@ -58,6 +59,7 @@ machine-learning-journey/
 ### Ensemble Technique 
 
 - [Random Forest – Breast Cancer Classification](Ensemble/Random_Forest/README.md)
+- [AdaBoost – Breast Cancer Classification](Ensemble/AdaBoost/README.md)
 
 More algorithms and projects will be added as I continue learning.
 
