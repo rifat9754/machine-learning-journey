@@ -34,6 +34,8 @@ machine-learning-journey/
 │   └── AdaBoost/
 │
 ├── Clustering/
+│   └── K-Means/
+│
 ├── Dimensionality-Reduction/
 ├── Model-Evaluation/
 └── End-to-End-Projects/
@@ -59,8 +61,13 @@ machine-learning-journey/
 ### Ensemble Technique 
 
 - [Random Forest – Breast Cancer Classification](Ensemble/Random_Forest/README.md)
-- [AdaBoost – Breast Cancer Classification](Ensemble/AdaBoost/README.md)
+- [AdaBoost – Breast Cancer Classification](Ensemble/Adaboost/README.md)
 
+### Clustering
+
+- [K-Means Clustering – Unsupervised Iris Flower Grouping and Cluster Visualization](Clustering/K-means/README.md)
+
+  
 More algorithms and projects will be added as I continue learning.
 
 ## Goal
