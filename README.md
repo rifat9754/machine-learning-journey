@@ -67,7 +67,7 @@ machine-learning-journey/
 ### Clustering
 
 - [K-Means Clustering – Unsupervised Iris Flower Grouping and Cluster Visualization](Clustering/K-means/README.md)
-- [Hierarchical Clustering – Agglomerative Clustering with Dendrogram Visualization](Clustering/Hierarchical/README.md)
+- [Hierarchical Clustering – Agglomerative Clustering with Dendrogram Visualization](Clustering/Hierarchical%20/README.md)
 - [DBSCAN Clustering – Density-Based Clustering on Moon-Shaped Data](Clustering/DBSCAN/README.md)
 
   
