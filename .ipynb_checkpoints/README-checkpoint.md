@@ -29,6 +29,9 @@ machine-learning-journey/
 │   ├── KNN/
 │   └── Decision-Tree/
 │
+├── Ensemble-Techniques/
+│   └── Random-Forest/
+│
 ├── Clustering/
 ├── Dimensionality-Reduction/
 ├── Model-Evaluation/
@@ -54,7 +57,7 @@ machine-learning-journey/
 
 ### Ensemble Technique 
 
-- [Random Forest – Breast Cancer Classification](Classification/Random_Forest/README.md)
+- [Random Forest – Breast Cancer Classification](Ensemble/Random_Forest/README.md)
 
 More algorithms and projects will be added as I continue learning.
 
