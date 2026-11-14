@@ -28,8 +28,9 @@ machine-learning-journey/
 │   ├── Naive-Bayes/
 │   ├── KNN/
 │   ├── Decision-Tree/
-│   └── Support-Vector-Machine/
-│
+│   ├── Support-Vector-Machine/
+│   ├── Kernel-trick-SVM/
+|
 ├── Ensemble-Techniques/
 │   ├── Random-Forest/
 │   └── AdaBoost/
@@ -61,6 +62,7 @@ machine-learning-journey/
 - [KNN – Iris Flower Classification](Classification/KNN/README.md)
 - [Decision Tree – Iris Flower Classification](Classification/Decision_Tree_Classification/README.md)
 - [Support Vector Machine (SVM) – Linear Classification, Decision Boundaries, Support Vectors and C Parameter](Classification/SVM/README.md)
+- [Kernel Trick in SVM – Non-Linear Classification Using RBF Kernel](Classification/Kernel_Trick_SVM/README.md)
 
 ### Ensemble Technique 
 
@@ -70,7 +72,7 @@ machine-learning-journey/
 ### Clustering
 
 - [K-Means Clustering – Unsupervised Iris Flower Grouping and Cluster Visualization](Clustering/K-means/README.md)
-- [Hierarchical Clustering – Agglomerative Clustering with Dendrogram Visualization](Clustering/Hierarchical%20/README.md)
+- [Hierarchical Clustering – Agglomerative Clustering with Dendrogram Visualization](./Clustering/Hierarchical/README.md)
 - [DBSCAN Clustering – Density-Based Clustering on Moon-Shaped Data](Clustering/DBSCAN/README.md)
 
   
