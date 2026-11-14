@@ -27,7 +27,8 @@ machine-learning-journey/
 │   ├── Logistic-Regression/
 │   ├── Naive-Bayes/
 │   ├── KNN/
-│   └── Decision-Tree/
+│   ├── Decision-Tree/
+│   └── Support-Vector-Machine/
 │
 ├── Ensemble-Techniques/
 │   ├── Random-Forest/
@@ -35,8 +36,9 @@ machine-learning-journey/
 │
 ├── Clustering/
 │   ├── K-Means/
-│   ├── Hirerchical-Clustering/
-|   └── DBSCAN
+│   ├── Hierarchical-Clustering/
+│   └── DBSCAN/
+│
 ├── Dimensionality-Reduction/
 ├── Model-Evaluation/
 └── End-to-End-Projects/
@@ -58,6 +60,7 @@ machine-learning-journey/
 - [Naive Bayes – Iris Flower Classification](Classification/Naive_Bayes/README.md)
 - [KNN – Iris Flower Classification](Classification/KNN/README.md)
 - [Decision Tree – Iris Flower Classification](Classification/Decision_Tree_Classification/README.md)
+- [Support Vector Machine (SVM) – Linear Classification, Decision Boundaries, Support Vectors and C Parameter](Classification/SVM/README.md)
 
 ### Ensemble Technique 
 

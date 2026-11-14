@@ -27,7 +27,8 @@ machine-learning-journey/
 │   ├── Logistic-Regression/
 │   ├── Naive-Bayes/
 │   ├── KNN/
-│   └── Decision-Tree/
+│   ├── Decision-Tree/
+│   └── Support-Vector-Machine/
 │
 ├── Ensemble-Techniques/
 │   ├── Random-Forest/
@@ -35,8 +36,9 @@ machine-learning-journey/
 │
 ├── Clustering/
 │   ├── K-Means/
-│   ├── Hirerchical-Clustering/
-|
+│   ├── Hierarchical-Clustering/
+│   └── DBSCAN/
+│
 ├── Dimensionality-Reduction/
 ├── Model-Evaluation/
 └── End-to-End-Projects/
@@ -58,6 +60,7 @@ machine-learning-journey/
 - [Naive Bayes – Iris Flower Classification](Classification/Naive_Bayes/README.md)
 - [KNN – Iris Flower Classification](Classification/KNN/README.md)
 - [Decision Tree – Iris Flower Classification](Classification/Decision_Tree_Classification/README.md)
+- [Support Vector Machine (SVM) – Linear Classification, Decision Boundaries, Support Vectors and C Parameter](Classification/SVM/README.md)
 
 ### Ensemble Technique 
 
@@ -67,7 +70,8 @@ machine-learning-journey/
 ### Clustering
 
 - [K-Means Clustering – Unsupervised Iris Flower Grouping and Cluster Visualization](Clustering/K-means/README.md)
-- [Hierarchical Clustering – Agglomerative Clustering](Clustering/Hierarchical/README.md)
+- [Hierarchical Clustering – Agglomerative Clustering with Dendrogram Visualization](./Clustering/Hierarchical/README.md)
+- [DBSCAN Clustering – Density-Based Clustering on Moon-Shaped Data](Clustering/DBSCAN/README.md)
 
   
 More algorithms and projects will be added as I continue learning.
